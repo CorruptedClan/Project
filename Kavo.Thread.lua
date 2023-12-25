@@ -120,7 +120,7 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(22, 29, 31)
     },
     GrassHop = {
-        SchemeColor = Color3.fromRGB(80, 255, 43),
+        SchemeColor = Color3.fromRGB(0, 0, 0),
         Background = Color3.fromRGB(0, 0, 0),
         Header = Color3.fromRGB(80, 255, 43),
         TextColor = Color3.fromRGB(255,255,255),
