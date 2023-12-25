@@ -122,7 +122,7 @@ local themeStyles = {
     GrassHop = {
         SchemeColor = Color3.fromRGB(80, 255, 43),
         Background = Color3.fromRGB(0, 0, 0),
-        Header = Color3.fromRGB(80, 255, 43),
+        Header = Color3.fromRGB(0, 0, 0),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(80, 255, 43)
 	}
